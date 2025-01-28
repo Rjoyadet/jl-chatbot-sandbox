@@ -1,2 +1,2 @@
 Print("greetings lovely bags of mostly water")
-print("How are you today?")
+feeling = input("How are you today?")
