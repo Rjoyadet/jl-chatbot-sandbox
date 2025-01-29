@@ -5,3 +5,5 @@ feeling = input("How are you today?")
   else:
     print("I am sorry your day isn't well.")
 print("what shows are you currently watching?")
+   if shows == 'none':
+     print("me neither")
