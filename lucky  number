@@ -2,3 +2,9 @@ name = "Fred"
 number = len(name) * 4
 
 print ("hello" + name + "your number is" str(number))
+
+def lucky_number(name)
+  number = len(name)*4
+print("Hello" + name+ ". Your lucky number is " + str(number))
+
+lucky_number("George")
