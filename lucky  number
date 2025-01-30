@@ -1,0 +1,4 @@
+name = "Fred"
+number = len(name) * 4
+
+print ("hello" + name + "your number is" str(number))
