@@ -8,3 +8,15 @@ def lucky_number(name)
 print("Hello" + name+ ". Your lucky number is " + str(number))
 
 lucky_number("George")
+
+#####################################
+
+def big_word(name)
+if name > 7:
+  word ="big"
+elif name >= 5:
+  word ="medium"
+else:
+  word = "small"
+return word
+#############################
