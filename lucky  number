@@ -29,3 +29,8 @@ print (n)
 
 for n in range (2, 7+1):
 print (n*3)
+
+########################
+for x in range (7):
+if x % 2 == 0 :
+print (x)
