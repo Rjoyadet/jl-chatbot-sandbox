@@ -7,3 +7,8 @@ feeling = input("How are you today?")
 print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
+
+############################
+
+string1 = "Greetings, Earthlings"
+print (string1[0]) 
