@@ -11,7 +11,7 @@ lucky_number("George")
 
 #####################################
 
-def big_word(name)
+def big_word(name) 
 if name > 7:
   word ="big"
 elif name >= 5:
