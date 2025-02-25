@@ -8,17 +8,7 @@ print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
 
-first_name = "ada"
-last_name = "lovelace"
-full_name= "{first_name} {last_name}"
-print(full_name)
 
-
-2 + 3*4
-
-( 2 + 3 ) * 4
-
-14 and 20 are the answers, PEMDAS and all
 ############################
 
 string1 = "Greetings, Earthlings"
