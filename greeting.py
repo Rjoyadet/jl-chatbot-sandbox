@@ -8,10 +8,11 @@ print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
 
+first_name = "ada"
+last_name = "lovelace"
+full_name= "{first_name} {last_name}"
+print(full_name)
 
-name = "Ada Lovelace"
-
-print.(name.upper())
 
 ############################
 
