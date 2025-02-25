@@ -8,6 +8,11 @@ print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
 
+
+name = "Ada Lovelace"
+
+print.(name.upper())
+
 ############################
 
 string1 = "Greetings, Earthlings"
