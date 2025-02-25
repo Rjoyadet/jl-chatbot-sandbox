@@ -14,6 +14,11 @@ full_name= "{first_name} {last_name}"
 print(full_name)
 
 
+2 + 3*4
+
+( 2 + 3 ) * 4
+
+14 and 20 are the answers, PEMDAS and all
 ############################
 
 string1 = "Greetings, Earthlings"
