@@ -8,6 +8,10 @@ print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
 print("Do you get the Star Trek refererence")
+   if trek = 'yes':
+     print("hooray") 
+   else: 
+     print("gee, well then that went over your head.")
 
 
 ############################
