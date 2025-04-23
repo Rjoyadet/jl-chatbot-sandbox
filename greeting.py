@@ -12,6 +12,9 @@ print("Do you get the Star Trek refererence")
      print("hooray") 
    else: 
      print("gee, well then that went over your head.")
+print("Do you like Star Wars?")
+  if wars = 'yes':
+      print("oh okay, now I understand")
 
 
 ############################
