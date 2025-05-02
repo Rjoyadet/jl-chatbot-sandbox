@@ -15,6 +15,7 @@ print("Do you get the Star Trek refererence")
 print("Do you like Star Wars?")
   if wars = 'yes':
       print("oh okay, now I understand")
+      print("may the force be with you")
 
 
 ############################
