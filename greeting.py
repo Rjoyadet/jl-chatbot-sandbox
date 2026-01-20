@@ -16,7 +16,8 @@ print("Do you like Star Wars?")
   if wars = 'yes':
       print("oh okay, now I understand")
       print("may the force be with you")
-
+ if wars = 'no':
+      print("is that why you are sad?")
 
 ############################
 
