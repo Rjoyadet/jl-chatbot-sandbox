@@ -7,7 +7,7 @@ feeling = input("How are you today?")
 print("what shows are you currently watching?")
    if shows == 'none':
      print("me neither")
-print("Do you get the Star Trek refererence")
+trek = input("Do you get the Star Trek refererence")
    if trek = 'yes':
      print("hooray") 
    else: 
