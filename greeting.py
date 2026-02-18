@@ -18,7 +18,7 @@ print("Do you like Star Wars?")
       print("may the force be with you")
  if wars = 'no':
       print("is that why you are sad?")
-
+print("what movies do you like?")
 ############################
 
 string1 = "Greetings, Earthlings"
